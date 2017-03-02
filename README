@@ -1,0 +1,7 @@
+Use these script you must put your credentials in your $HOME/.aws dictionary
+Use ln -s put the shell script into bin
+
+for example:
+ln -s /data/aws/ipaws.sh /bin/showips
+
+Then you can use the command:showips anywhere

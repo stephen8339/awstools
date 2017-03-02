@@ -1,0 +1,9 @@
+Name|Status|PublicDnsName|PublicIP|PrivateDnsName|PrivateIP
+PlatformNew  |   in-use |   ec2-54-249-80-86.ap-northeast-1.compute.amazonaws.com |    54.249.80.86 |    ip-172-31-24-177.ap-northeast-1.compute.internal |   172.31.24.177
+Logic1  |   in-use |   ec2-54-199-142-153.ap-northeast-1.compute.amazonaws.com |    54.199.142.153 |    ip-172-31-17-67.ap-northeast-1.compute.internal |   172.31.17.67
+Cross1  |   in-use |   ec2-54-238-220-220.ap-northeast-1.compute.amazonaws.com |    54.238.220.220 |    ip-172-31-21-244.ap-northeast-1.compute.internal |   172.31.21.244
+Sdk1  |   in-use |   ec2-54-238-193-148.ap-northeast-1.compute.amazonaws.com |    54.238.193.148 |    ip-172-31-30-253.ap-northeast-1.compute.internal |   172.31.30.253
+Allinone&Management  |   in-use |   ec2-54-199-213-251.ap-northeast-1.compute.amazonaws.com |    54.199.213.251 |    ip-172-31-30-109.ap-northeast-1.compute.internal |   172.31.30.109
+PVP  |   in-use |   ec2-54-199-240-235.ap-northeast-1.compute.amazonaws.com |    54.199.240.235 |    ip-172-31-29-120.ap-northeast-1.compute.internal |   172.31.29.120
+Batch  |   in-use |   ec2-54-238-255-50.ap-northeast-1.compute.amazonaws.com |    54.238.255.50 |    ip-172-31-30-251.ap-northeast-1.compute.internal |   172.31.30.251
+Server1  |   in-use |   ec2-54-249-1-239.ap-northeast-1.compute.amazonaws.com |    54.249.1.239 |    ip-172-31-31-21.ap-northeast-1.compute.internal |   172.31.31.21
